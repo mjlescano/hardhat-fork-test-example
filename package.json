@@ -1,0 +1,25 @@
+{
+  "name": "hardhat-fork-test-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjlescano/hardhat-fork-test-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjlescano/hardhat-fork-test-example/issues"
+  },
+  "homepage": "https://github.com/mjlescano/hardhat-fork-test-example#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.1",
+    "hardhat": "^2.9.1"
+  }
+}
